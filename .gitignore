@@ -1,1 +1,4 @@
-./venv
+venv
+distilbert
+Data/test.csv
+Data/train.csv
